@@ -1,0 +1,12 @@
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\bin\Debug\net5.0\Model.Domain.deps.json
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\bin\Debug\net5.0\Model.Domain.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\bin\Debug\net5.0\ref\Model.Domain.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\bin\Debug\net5.0\Model.Domain.pdb
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.csprojAssemblyReference.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.AssemblyInfoInputs.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.AssemblyInfo.cs
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\ref\Model.Domain.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Domain\obj\Debug\net5.0\Model.Domain.pdb

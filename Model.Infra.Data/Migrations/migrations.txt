@@ -1,0 +1,5 @@
+﻿Add-Migration CadastroUsuario -Context SqlServerContext -OutputDir Migrations\MsSqlMigration
+
+update-database -Context SqlServerContext
+
+remove-migration -Context SqlServerContext

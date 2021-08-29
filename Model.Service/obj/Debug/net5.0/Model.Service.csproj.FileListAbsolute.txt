@@ -1,0 +1,15 @@
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\bin\Debug\net5.0\Model.Service.deps.json
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\bin\Debug\net5.0\Model.Service.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\bin\Debug\net5.0\ref\Model.Service.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\bin\Debug\net5.0\Model.Service.pdb
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\bin\Debug\net5.0\Model.Domain.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\bin\Debug\net5.0\Model.Domain.pdb
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.csprojAssemblyReference.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.AssemblyInfoInputs.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.AssemblyInfo.cs
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.csproj.CopyComplete
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\ref\Model.Service.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Service\obj\Debug\net5.0\Model.Service.pdb

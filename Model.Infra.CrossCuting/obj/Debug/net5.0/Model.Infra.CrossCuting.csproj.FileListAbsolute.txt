@@ -1,0 +1,12 @@
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\bin\Debug\net5.0\Model.Infra.CrossCuting.deps.json
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\bin\Debug\net5.0\Model.Infra.CrossCuting.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\bin\Debug\net5.0\ref\Model.Infra.CrossCuting.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\bin\Debug\net5.0\Model.Infra.CrossCuting.pdb
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.AssemblyInfoInputs.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.AssemblyInfo.cs
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.csproj.CoreCompileInputs.cache
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\ref\Model.Infra.CrossCuting.dll
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.pdb
+C:\Users\RodrigoFraga\source\repos\UsuárioCadastro\Model.Infra.CrossCuting\obj\Debug\net5.0\Model.Infra.CrossCuting.csprojAssemblyReference.cache

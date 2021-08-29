@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Service\\Model.Service.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Domain\\Model.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Domain\\Model.Domain.csproj",
+        "projectName": "Model.Domain",
+        "projectPath": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Domain\\Model.Domain.csproj",
+        "packagesPath": "C:\\Users\\RodrigoFraga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RodrigoFraga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Service\\Model.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Service\\Model.Service.csproj",
+        "projectName": "Model.Service",
+        "projectPath": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Service\\Model.Service.csproj",
+        "packagesPath": "C:\\Users\\RodrigoFraga\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RodrigoFraga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Domain\\Model.Domain.csproj": {
+                "projectPath": "C:\\Users\\RodrigoFraga\\source\\repos\\UsuárioCadastro\\Model.Domain\\Model.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[10.3.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
