@@ -39,9 +39,8 @@ namespace Model.Application.Controllers
 
             return Execute(() => _baseUserService.Update<UserValidator>(user));
         }
-
-        [HttpDelete("{id}")]
-        public IActionResult Delete(int id)
+        [HttpPost("Delete")]
+        public IActionResult Delete([FromBody] int id)
         {
             if (id == 0)
                 return NotFound();
